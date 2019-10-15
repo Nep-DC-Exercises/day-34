@@ -1,3 +1,4 @@
+// https://app.schoology.com/assignment/2271041775/info
 // Given the following objects
 var mom = {
     firstName: 'Alice',
